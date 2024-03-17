@@ -84,3 +84,7 @@ add a file to initializers
 we called it app/cofig/initializers/active_model_serializer.rb
 
 restart server
+
+up next: 
+"Create a Basic API with Ruby on Rails - Part 2 - Routing and Versioning" by webcrunch on YouTube
+https://www.youtube.com/watch?v=MTnqWxr6djE
